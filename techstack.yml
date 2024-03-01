@@ -1,8 +1,8 @@
 repo_name: stackshareio/SlackMrkdwn
-report_id: 966e2d0081867e4c5be3d89f7a477fef
+report_id: 6ba3978f6ce0335ddda93c48ca1418c4
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-16T00:20:41+00:00'
+timestamp: '2024-03-01T20:36:05+00:00'
 requested_by: blazingbbq
 provider: github
 branch: master
@@ -63,10 +63,10 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
-  detection_source_url: https://github.com/stackshareio/SlackMrkdwn/blob/master/Gemfile
-  detection_source: Gemfile
+  detection_source_url: https://github.com/stackshareio/SlackMrkdwn/blob/master/slack_mrkdwn.gemspec
+  detection_source: slack_mrkdwn.gemspec
   last_updated_by: Simon Cousineau
-  last_updated_on: 2019-08-10 14:30:07.000000000 Z
+  last_updated_on: 2019-08-13 02:19:53.000000000 Z
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
     projects
@@ -80,19 +80,20 @@ tools:
   detection_source: ".travis.yml"
   last_updated_by: Simon Cousineau
   last_updated_on: 2019-08-13 00:14:57.000000000 Z
-- name: Rake
-  description: A software task management and build automation tool
-  website_url: https://github.com/ruby/rake
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  version: 12.3.3
   license: MIT
   open_source: true
   hosted_saas: false
-  category: Application Utilities
-  sub_category: Task Management
-  image_url: https://ucarecdn.com/79629173-de2d-4cdf-8509-6d1411b382e7/
-  detection_source_url: https://github.com/stackshareio/SlackMrkdwn/blob/master/slack_mrkdwn.gemspec
-  detection_source: slack_mrkdwn.gemspec
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/stackshareio/SlackMrkdwn/blob/master/Gemfile.lock
+  detection_source: Gemfile
   last_updated_by: Simon Cousineau
-  last_updated_on: 2019-08-13 02:19:53.000000000 Z
+  last_updated_on: 2019-08-13 00:14:57.000000000 Z
 - name: redcarpet
   description: A fast, safe and extensible Markdown to
   package_url: https://rubygems.org/redcarpet
