@@ -7,7 +7,6 @@ stackshareio/SlackMrkdwn is built on the following main stack:
 - [Bundler](http://bundler.io) – Front End Package Manager
 - [RSpec](https://rspec.info/) – Testing Frameworks
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
-- [Rake](https://github.com/ruby/rake) – Task Management
 
 Full tech stack [here](/techstack.md)
 
@@ -21,7 +20,6 @@ stackshareio/SlackMrkdwn is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/2988/4e77LXIo_400x400.png' alt='Bundler'/> [Bundler](http://bundler.io) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
-- <img width='25' height='25' src='https://ucarecdn.com/79629173-de2d-4cdf-8509-6d1411b382e7/' alt='Rake'/> [Rake](https://github.com/ruby/rake) – Task Management
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareio/SlackMrkdwn](https://github.com/stackshareio/SlackMrkdwn)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|02/16/24 <br/>Report generated|
+|8<br/>Tools used|03/01/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -94,26 +92,14 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://ucarecdn.com/79629173-de2d-4cdf-8509-6d1411b382e7/' alt='Rake'>
-  <br>
-  <sub><a href="https://github.com/ruby/rake">Rake</a></sub>
-  <br>
-  <sub></sub>
-</td>
 
-</tr>
-</table>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
 
-
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (1)</h2>
-
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (1)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (2)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[rake](https://rubygems.org/rake)|v12.3.3|08/13/19|Simon Cousineau |MIT|N/A|
 |[redcarpet](https://rubygems.org/redcarpet)|v3.5.1|01/11/21|Simon Cousineau |MIT|N/A|
 
 <br/>
